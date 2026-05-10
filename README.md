@@ -167,5 +167,5 @@ Los tests no necesitan base de datos: los casos de uso reciben **mocks** gracias
 
 ## Autor
 
-Actividad — Programación Orientada a Objetos Avanzada  
-Ingeniería de Sistemas — 2025
+Actividad — Topicos avanzados 
+Ingeniería de Sistemas — 2026
